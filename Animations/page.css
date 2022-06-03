@@ -1,5 +1,10 @@
 body {
-    background: #fff;
+    background: #999999;
+    color: #fff;
+}
+
+table {
+    width: 50%;
 }
 
 tr td{
